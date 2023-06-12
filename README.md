@@ -1,4 +1,4 @@
-Website made for my csp class
+Website made for my AP CSP class
 World Cup 
 Website Author: Parsh Gandhi, Maanav Shah, Archish Prakhya 
 12/20/2022 
